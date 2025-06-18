@@ -19,6 +19,10 @@ This is a C# Windows Forms application for managing student grades.
     git clone https://github.com/dushime1212/StudentGradeManagement.git
     ```
 
+
+https://github.com/user-attachments/assets/a59a2f78-62b2-4105-87ff-3a1d3d02e97a
+
+
 2. **Open project in Visual Studio.**
 
 3. **Build and Run** (press `F5` or use the Start button).
