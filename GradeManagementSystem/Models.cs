@@ -2,7 +2,7 @@
 
 namespace StudentGradeManagement
 {
-    // Enum for grade categories (optional for future extensions)
+
     public enum GradeCategory
     {
         Excellent,
@@ -12,7 +12,7 @@ namespace StudentGradeManagement
         Fail
     }
 
-    // Student struct to encapsulate student data (optional for extensibility)
+
     public struct Student
     {
         public string Name { get; set; }
